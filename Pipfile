@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"  #"5301540663:AAG4GwpVjf1Ez1SBkJW-eBXFLia5oYyAzKw"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
